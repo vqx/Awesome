@@ -1,0 +1,15 @@
+[submodule "Code/android/AndroidGame2048"]
+	path = Code/android/AndroidGame2048
+	url = git@github.com:vqx/AndroidGame2048
+[submodule "Code/golang/GoUtils"]
+	path = Code/golang/GoUtils
+	url = git@github.com:vqx/GoUtils
+[submodule "Code/golang/GolangTestCode"]
+	path = Code/golang/GolangTestCode
+	url = git@github.com:vqx/GolangTestCode
+[submodule "Code/golang/WkcMonitor"]
+	path = Code/golang/WkcMonitor
+	url = git@github.com:vqx/WkcMonitor
+[submodule "Notes/GolangNotes"]
+	path = Notes/GolangNotes
+	url = git@github.com:vqx/GolangNotes
