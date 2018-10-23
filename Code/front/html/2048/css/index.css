@@ -1,0 +1,52 @@
+body{
+    background:#a8a8a8
+}
+.index{
+   background:#FFF;
+   border: 1px;
+   border-color:#000;
+   width:408px;
+   height:500px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.showPanel{
+    float:left;
+    background:#979797;
+    border:1px solid black;
+    width:406px;
+    height:100px;
+}
+.showPanel .score{
+    float:left;
+    background:#979797;
+    border:5px solid gray;
+    width:293px;
+    height:90px;
+    line-height: 90px;
+    text-align: center;
+}
+.showPanel .move{
+    float:right;
+    background:#979797;
+    border:5px solid gray;
+    width:93px;
+    height:90px;
+    line-height: 45px;
+    text-align: center;
+}
+.mainPanel{
+    float:left;
+    width:408px;
+     height:500px;
+}
+.block{
+   background:#979797;
+   border:1px solid black;
+   float:left;
+   width:100px;
+   height:100px;
+   line-height: 100px;
+   text-align: center;
+   font-size:1.2cm;
+}

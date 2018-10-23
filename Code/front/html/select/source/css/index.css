@@ -1,0 +1,16 @@
+.multiSearchSelect{
+    with:100px;
+}
+.index {
+   text-align:center;
+}
+.multiSearchSelectContent{
+    width:100px;
+    float:left;
+}
+.multiSearchSelectDrop{
+    float:right;
+}
+.multiSearchSelectOption{
+     width:100px;
+}
