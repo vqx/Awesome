@@ -7,6 +7,9 @@
 [submodule "Code/golang/GolangTestCode"]
 	path = Code/golang/GolangTestCode
 	url = git@github.com:vqx/GolangTestCode
+[submodule "Code/golang/OneLineSolver"]
+	path = Code/golang/OneLineSolver
+	url = git@github.com:vqx/OneLineSolver
 [submodule "Code/golang/WkcMonitor"]
 	path = Code/golang/WkcMonitor
 	url = git@github.com:vqx/WkcMonitor
