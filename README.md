@@ -1,2 +1,2 @@
 # Awesome
-navigation  other repository
+navigation my other repository
