@@ -4,15 +4,15 @@
 [submodule "Code/golang/GoUtils"]
 	path = Code/golang/GoUtils
 	url = git@github.com:vqx/GoUtils
-[submodule "Code/golang/GolangTestCode"]
-	path = Code/golang/GolangTestCode
-	url = git@github.com:vqx/GolangTestCode
 [submodule "Code/golang/OneLineSolver"]
 	path = Code/golang/OneLineSolver
 	url = git@github.com:vqx/OneLineSolver
 [submodule "Code/golang/WkcMonitor"]
 	path = Code/golang/WkcMonitor
 	url = git@github.com:vqx/WkcMonitor
+[submodule "Code/golang/voip"]
+	path = Code/golang/voip
+	url = https://github.com/vqx/voip
 [submodule "Notes/GolangNotes"]
 	path = Notes/GolangNotes
 	url = git@github.com:vqx/GolangNotes
