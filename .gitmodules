@@ -4,6 +4,9 @@
 [submodule "Code/golang/GoUtils"]
 	path = Code/golang/GoUtils
 	url = git@github.com:vqx/GoUtils
+[submodule "Code/golang/GolangTestCode"]
+	path = Code/golang/GolangTestCode
+	url = https://github.com/vqx/GolangTestCode
 [submodule "Code/golang/OneLineSolver"]
 	path = Code/golang/OneLineSolver
 	url = git@github.com:vqx/OneLineSolver
